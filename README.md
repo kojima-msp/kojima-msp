@@ -1,34 +1,46 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hayate%20Kojima&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Graph%20Signal%20Processing%20%C2%B7%20Deep%20Algorithm%20Unrolling&descSize=18&descAlignY=58" alt="Hayate Kojima" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hayate%20Kojima&fontSize=44&fontColor=ffffff" alt="Hayate Kojima" width="100%" />
 </p>
 
 <p align="center">
-  Ph.D. student @ <b>The University of Osaka</b>, Graduate School of Engineering — <a href="https://www.sip.comm.eng.osaka-u.ac.jp/">MSP Lab</a>
+  Ph.D. student @ <b>The University of Osaka</b>, Graduate School of Engineering — <a href="https://www.sip.comm.eng.osaka-u.ac.jp/">SIP Group</a>
 </p>
 
 <p align="center">
-  <a href="https://www.sip.comm.eng.osaka-u.ac.jp/"><img src="https://img.shields.io/badge/MSP_Lab-Osaka_Univ.-2c5364?style=for-the-badge&logo=academia&logoColor=white" alt="MSP Lab" /></a>
-  <!-- <a href="https://scholar.google.com/citations?user=XXXX"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a> -->
-  <!-- <a href="https://researchmap.jp/XXXX"><img src="https://img.shields.io/badge/researchmap-1e6fba?style=for-the-badge" alt="researchmap" /></a> -->
-  <!-- <a href="https://orcid.org/XXXX-XXXX-XXXX-XXXX"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a> -->
+  <a href="https://www.sip.comm.eng.osaka-u.ac.jp/"><img src="https://img.shields.io/badge/Our_Group_Website-SIP_Group-2c5364?style=for-the-badge&logo=googlehome&logoColor=white" alt="Our Group Website (SIP Group)" /></a>
+  <a href="https://scholar.google.co.jp/citations?user=Yjk-24YAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+  <a href="https://orcid.org/my-orcid?orcid=0009-0002-2908-6277"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
   <a href="https://github.com/tuat-yate"><img src="https://img.shields.io/badge/Personal_Projects-@tuat--yate-181717?style=for-the-badge&logo=github&logoColor=white" alt="@tuat-yate" /></a>
 </p>
 
 ---
 
-## 🔬 About
+## About
 
 I study **graph signal processing** with **deep algorithm unrolling** — building restoration and denoising methods that keep the interpretability of classical optimization while learning their parameters from data.
 
-- 🕸️ **Graph signal restoration & denoising** — time-varying signals, multimodal signals on twofold graphs
-- 🔁 **Deep algorithm unrolling** — model-based deep learning with learnable iterations
-- 🧩 **Graph learning** — estimating the underlying graph jointly with the signal
-- 🧪 **Reproducible research** — every repository regenerates the paper's tables and figures
+- **Graph signal restoration & denoising** — time-varying signals, multimodal signals on twofold graphs
+- **Deep algorithm unrolling** — model-based deep learning with learnable iterations
+- **Graph learning** — estimating the underlying graph jointly with the signal
 
-## 📄 Publications with Code
+## Publications with Code
 
 <table>
+  <tr>
+    <td width="36%" align="center">
+      <a href="https://github.com/kojima-msp/GLASS"><img src="https://github.com/kojima-msp/GLASS/raw/main/docs/overview.png" alt="GLASS" width="100%" /></a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/IEEE_TSIPN-Submitted-00629B?style=flat-square" alt="IEEE TSIPN Submitted" />
+      <img src="https://img.shields.io/badge/ICASSP-2023-00629B?style=flat-square" alt="ICASSP 2023" /><br />
+      <b>Restoration of Time-Varying Graph Signals using Deep Algorithm Unrolling</b><br />
+      <b><u>H. Kojima</u></b>, H. Noguchi, K. Yamada, Y. Tanaka<br />
+      <i>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</i>, 2023.<br />
+      <a href="https://doi.org/10.1109/ICASSP49357.2023.10094838">Paper (ICASSP)</a> ·
+      <a href="https://github.com/kojima-msp/GLASS">Code</a>
+    </td>
+  </tr>
   <tr>
     <td width="36%" align="center">
       <a href="https://github.com/kojima-msp/MGSD_LLAP_DAU"><img src="https://github.com/kojima-msp/MGSD_LLAP_DAU/raw/main/doc/img/proposed_method.jpg" alt="MGSD_LLAP_DAU" width="100%" /></a>
@@ -58,34 +70,48 @@ I study **graph signal processing** with **deep algorithm unrolling** — buildi
       <a href="https://github.com/kojima-msp/GRED_DAU">Code</a>
     </td>
   </tr>
-  <tr>
-    <td width="36%" align="center">
-      <a href="https://github.com/kojima-msp/GLASS"><img src="https://github.com/kojima-msp/GLASS/raw/main/docs/overview.png" alt="GLASS" width="100%" /></a>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/ICASSP-2023-00629B?style=flat-square" alt="ICASSP 2023" /><br />
-      <b>Restoration of Time-Varying Graph Signals using Deep Algorithm Unrolling</b><br />
-      <b><u>H. Kojima</u></b>, H. Noguchi, K. Yamada, Y. Tanaka<br />
-      <i>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</i>, 2023.<br />
-      <a href="https://doi.org/10.1109/ICASSP49357.2023.10094838">Paper</a> ·
-      <a href="https://github.com/kojima-msp/GLASS">Code</a>
-    </td>
-  </tr>
 </table>
 
-## 🧰 Toolbox
-
-<p>
-  <img src="https://skillicons.dev/icons?i=py,pytorch,ts,js,linux,git,vscode&perline=7" alt="Python, PyTorch, TypeScript, JavaScript, Linux, Git, VS Code" />
-</p>
+## Toolbox
 
 - [**research-template**](https://github.com/kojima-msp/research-template) — a template for reproducible research repositories (uv-managed environment, configs, and scripts that regenerate a paper's tables and figures)
 
-## 🛠️ Personal Projects
+## Personal Projects
 
-Side projects live on [**@tuat-yate**](https://github.com/tuat-yate), e.g.
-[ytm-desktop-controller](https://github.com/tuat-yate/ytm-desktop-controller) (Stream Deck plugin) and
-[TUAT-Autofill-Extension](https://github.com/tuat-yate/TUAT-Autofill-Extension).
+Outside research, I build small tools that remove everyday friction. They live on [**@tuat-yate**](https://github.com/tuat-yate).
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/tuat-yate/ytm-desktop-controller">YTM Desktop Controller</a></h3>
+      <p>
+        <a href="https://marketplace.elgato.com/product/ytm-desktop-controller-7dfe9fc1-80a9-44e3-80c5-4cf456b74a2b"><img src="https://img.shields.io/badge/Elgato_Marketplace-Available-1f1f1f?style=flat-square&logo=elgato&logoColor=white" alt="Elgato Marketplace" /></a>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <a href="https://github.com/tuat-yate/ytm-desktop-controller/stargazers"><img src="https://img.shields.io/github/stars/tuat-yate/ytm-desktop-controller?style=flat-square&logo=github" alt="Stars" /></a>
+      </p>
+      <p>A Stream Deck plugin that controls YouTube Music through <a href="https://github.com/pear-devs/pear-desktop">pear-desktop</a>.</p>
+      <ul>
+        <li>Play / pause, next, previous, seek, like / dislike</li>
+        <li>Live album artwork on keys, with scrolling track info and a progress bar</li>
+        <li>Queue a track or playlist from a key (force play / shuffle)</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/tuat-yate/TUAT-Autofill-Extension">TUAT Autofill Extension</a></h3>
+      <p>
+        <a href="https://chromewebstore.google.com/detail/tuat-autofill-extension/nnnckhaffpfnflhcgdhikjbkfdhnmode"><img src="https://img.shields.io/badge/Chrome_Web_Store-Available-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Web Store" /></a>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <a href="https://github.com/tuat-yate/TUAT-Autofill-Extension/stargazers"><img src="https://img.shields.io/github/stars/tuat-yate/TUAT-Autofill-Extension?style=flat-square&logo=github" alt="Stars" /></a>
+      </p>
+      <p>An unofficial browser extension that fills in one-time passwords for the two-step login of Tokyo University of Agriculture and Technology.</p>
+      <ul>
+        <li>Generates one-time passwords from the user's own secret key</li>
+        <li>Autofills them on the university's login page</li>
+        <li>Published on the Chrome Web Store, with build scripts for Firefox</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <!-- Footer -->
 <p align="center">
