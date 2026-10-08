@@ -8,9 +8,10 @@
 </p>
 
 <p align="center">
+  <a href="https://hayate-kojima.jp/"><img src="https://img.shields.io/badge/Homepage-hayate--kojima.jp-0f2027?style=for-the-badge&logo=hugo&logoColor=white" alt="Homepage" /></a>
   <a href="https://www.sip.comm.eng.osaka-u.ac.jp/"><img src="https://img.shields.io/badge/Our_Group_Website-SIP_Group-2c5364?style=for-the-badge&logo=googlehome&logoColor=white" alt="Our Group Website (SIP Group)" /></a>
   <a href="https://scholar.google.co.jp/citations?user=Yjk-24YAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
-  <a href="https://orcid.org/my-orcid?orcid=0009-0002-2908-6277"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
+  <a href="https://orcid.org/0009-0002-2908-6277"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
   <a href="https://github.com/tuat-yate"><img src="https://img.shields.io/badge/Personal_Projects-@tuat--yate-181717?style=for-the-badge&logo=github&logoColor=white" alt="@tuat-yate" /></a>
 </p>
 
@@ -24,7 +25,9 @@ I study **graph signal processing** with **deep algorithm unrolling** — buildi
 - **Deep algorithm unrolling** — model-based deep learning with learnable iterations
 - **Graph learning** — estimating the underlying graph jointly with the signal
 
-## Publications with Code
+## Selected Publications with Code
+
+> **Full publication list** (journals, international / domestic conferences, slides) is on my homepage: **[hayate-kojima.jp/posts/publications](https://hayate-kojima.jp/posts/publications/)**
 
 <table>
   <tr>
