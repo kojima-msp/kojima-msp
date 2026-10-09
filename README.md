@@ -37,9 +37,11 @@ I study **graph signal processing** with **deep algorithm unrolling** — buildi
     <td>
       <img src="https://img.shields.io/badge/IEEE_TSIPN-Submitted-00629B?style=flat-square" alt="IEEE TSIPN Submitted" />
       <img src="https://img.shields.io/badge/ICASSP-2023-00629B?style=flat-square" alt="ICASSP 2023" /><br />
-      <b>Restoration of Time-Varying Graph Signals using Deep Algorithm Unrolling</b><br />
+      <b>Unrolled Time-Varying Graph Signal Restoration under Spatiotemporal Smoothness Priors</b><br />
       <b><u>H. Kojima</u></b>, H. Noguchi, K. Yamada, Y. Tanaka<br />
-      <i>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</i>, 2023.<br />
+      <i>IEEE Transactions on Signal and Information Processing over Networks</i>, submitted.<br />
+      <sub>A preliminary version was presented at <i>IEEE ICASSP 2023</i>.</sub><br />
+      <a href="https://arxiv.org/abs/2610.11359">arXiv</a> ·
       <a href="https://doi.org/10.1109/ICASSP49357.2023.10094838">Paper (ICASSP)</a> ·
       <a href="https://github.com/kojima-msp/GLASS">Code</a>
     </td>
